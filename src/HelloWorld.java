@@ -1,6 +1,6 @@
 
 public class HelloWorld {
 	public static void main(String[] arg) {
-		System.out.print("Hello world!");
+		System.out.print("Hello world! First branch");
 	}
 }
